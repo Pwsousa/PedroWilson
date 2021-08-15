@@ -1,5 +1,5 @@
 ## Olá, sou Pedro Wilson!🕹
-Estou crusando o 2° periodo da graduação de Engenharia de Computação
+Estou cursando o 2° periodo da graduação de Engenharia de Computação
 - 🎮 Sempre fui fascinado pela tecnologia 
 - 🎓 Desenvolvendo novas habilidades 
 - 🐱‍👤 Linguagens que estou estudando no momento :  <strong>Python e C</strong> 
